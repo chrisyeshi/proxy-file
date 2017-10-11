@@ -1,0 +1,27 @@
+{
+  "name": "proxy-file",
+  "version": "1.0.0",
+  "description": "Using a Proxy object to automatically serialize a JavaScript object to a JSON file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/chrisyeshi/proxy-file.git"
+  },
+  "keywords": [
+    "proxy",
+    "file",
+    "json",
+    "javascript",
+    "database",
+    "datastore"
+  ],
+  "author": "Chris Ye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisyeshi/proxy-file/issues"
+  },
+  "homepage": "https://github.com/chrisyeshi/proxy-file#readme"
+}
