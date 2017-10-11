@@ -4,11 +4,11 @@
   "description": "Using a Proxy object to automatically serialize a JavaScript object to a JSON file.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/chrisyeshi/proxy-file.git"
+    "url": "https://github.com/chrisyeshi/proxy-file.git"
   },
   "keywords": [
     "proxy",
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/chrisyeshi/proxy-file/issues"
   },
-  "homepage": "https://github.com/chrisyeshi/proxy-file#readme"
+  "homepage": "https://github.com/chrisyeshi/proxy-file#readme",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
 }
